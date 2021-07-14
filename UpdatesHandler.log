@@ -1,0 +1,10 @@
+﻿<![LOG[CUpdatesAgent::FinalConstruct entered]LOG]!><time="08:53:19.823+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="10928" file="cupdatesagent.cpp:48">
+<![LOG[Initiating updates scan for checking applicability.]LOG]!><time="08:53:20.018+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="3112" file="capplicabilityhandler.cpp:459">
+<![LOG[Successfully initiated scan.]LOG]!><time="08:53:24.851+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="3112" file="capplicabilityhandler.cpp:515">
+<![LOG[Updates scan completion received, result = 0x0.]LOG]!><time="08:53:45.564+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="7308" file="capplicabilityhandler.cpp:100">
+<![LOG[Initiating updates scan for checking applicability.]LOG]!><time="08:57:59.073+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="6960" file="capplicabilityhandler.cpp:459">
+<![LOG[Successfully initiated scan.]LOG]!><time="08:57:59.158+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="6960" file="capplicabilityhandler.cpp:515">
+<![LOG[Updates scan completion received, result = 0x0.]LOG]!><time="08:58:01.506+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="3032" file="capplicabilityhandler.cpp:100">
+<![LOG[Initiating updates scan for checking applicability.]LOG]!><time="09:34:11.082+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="7696" file="capplicabilityhandler.cpp:459">
+<![LOG[Successfully initiated scan.]LOG]!><time="09:34:11.132+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="7696" file="capplicabilityhandler.cpp:515">
+<![LOG[Updates scan completion received, result = 0x0.]LOG]!><time="09:34:11.157+240" date="07-14-2021" component="UpdatesHandler" context="" type="1" thread="3940" file="capplicabilityhandler.cpp:100">
